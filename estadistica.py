@@ -1,3 +1,5 @@
+# Programa que calcula estadisticas basicas de una lista de numeros: cantidad, suma, promedio, minimo y maximo
+
 def calcular_estadisticas(numeros):
     cantidad = len(numeros)
     suma_total = sum(numeros)
